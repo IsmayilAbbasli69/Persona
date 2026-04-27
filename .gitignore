@@ -40,9 +40,6 @@ streamlit_app_cache/
 .streamlit/secrets.toml
 streamlit/logger/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
 # Testing & Coverage
 .pytest_cache/
